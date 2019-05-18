@@ -1,0 +1,10 @@
+Getting Python:
+===============
+https://www.python.org/downloads/
+
+Getting started with Python:
+============================
+https://wiki.python.org/moin/BeginnersGuide/Download
+https://wiki.python.org/moin/BeginnersGuide
+
+Detailed instructions for OS specific installation guidelines to be added.
