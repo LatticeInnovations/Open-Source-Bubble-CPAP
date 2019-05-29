@@ -43,7 +43,7 @@ This is an open source Bubble CPAP project
 > ## Iteration 3:
 
 >> - Comparison with Pumani and experiments on rebreathing of CO2 in Open bubble CPAP.
->> - Humidifier water filling mechanism with ball valve.  
+>> - Humidifier water filling mechanism with ball valve.
 >> - Load testing with the new humidifier setup, continuous run for more than 8 hours
 >> - Comparison between looped vs unidirectional (separate inspiratory & expiratory limb) nasal prongs usage
 
