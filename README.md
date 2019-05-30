@@ -78,15 +78,15 @@ Conventional CPAP is very expensive and hence not affordable in resource-constra
 - To make sure that the prescribed level of oxygen is supplied to the patient through the air/O2 mixture so that it can take part in the gas exchange process in the alveoli.
 - Helping the patient breath by reducing the work of breathing.
 
-###How to use this document: 
+### How to use this document: 
 
 This opensource DIY design of this bubble CPAP is module driven. The entire design is divided into three segments:  
 
-    1. Base Design: 
+#### 1. Base Design: 
 This is the bare minimum design of the Bubble CPAP system and it represents the updated design guidelines of the latest design iterations.
-    2. Optional Add-ons: 
-	This section of the document includes all the additional hardware 
-    3. Material Specifications & Testing Protocols:
-	In this section, hardware materials, test procedures and outputs are discussed. 
+#### 2. Optional Add-ons: 
+This section of the document includes all the additional hardware 
+#### 3. Material Specifications & Testing Protocols:
+In this section, hardware materials, test procedures and outputs are discussed. 
 
 
