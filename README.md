@@ -92,7 +92,7 @@ This section of the document includes all the additional hardware
 In this section, hardware materials, test procedures and outputs are discussed. 
 
 ** The idea of the development process is: **
-> - To build a working CPAP device using the most commonly used & readily available resources.
+- To build a working CPAP device using the most commonly used & readily available resources.
 - To shrink the base design while retaining the robustness, reliability and functionality of the system so that it can be used as a standalone bare minimum design.
 - To include more resources, features and test cases in the Optional Add-ons & Testing protocols segments so that it can be further developed with different design approaches.
 
