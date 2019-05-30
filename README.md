@@ -98,11 +98,11 @@ In this section, hardware materials, test procedures and outputs are discussed.
 
 #### Features and specifications:
 
-    • Flow rate: 1 to 10 lpm
-    • PEEP: equivalent to 1 to 10 cm of water column
-    • Power input: 220v, 50Hz (inpun is air compressor dependant and entirely flexible)
-    • HME filtration (optional) for particulate free clean air.
-    • Both valve regulated or disposable humidifier can be used for easy access
-    • 3-flowmeter design for better air-oxygen blending and control of the total flow. 
-    • Can be built from scratch & easily accessible off-the-shelf components based desig.
-    • Max pressure for O2 cylinder interface: 5 PSI
+* Flow rate: 1 to 10 lpm
+* PEEP: equivalent to 1 to 10 cm of water column
+* Power input: 220v, 50Hz (inpun is air compressor dependant and entirely flexible)
+* HME filtration (optional) for particulate free clean air.
+* Both valve regulated or disposable humidifier can be used for easy access
+* 3-flowmeter design for better air-oxygen blending and control of the total flow. 
+* Can be built from scratch & easily accessible off-the-shelf components based desig.
+* Max pressure for O2 cylinder interface: 5 PSI
