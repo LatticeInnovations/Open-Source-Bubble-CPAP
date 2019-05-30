@@ -82,13 +82,13 @@ Conventional CPAP is very expensive and hence not affordable in resource-constra
 
 This opensource DIY design of this bubble CPAP is module driven. The entire design is divided into three segments: 
 
-> ** 1. Base Design: **
+** 1. Base Design: **
 This is the bare minimum design of the Bubble CPAP system and it represents the updated design guidelines of the latest design iterations.
 
-> ** 2. Optional Add-ons: **
+** 2. Optional Add-ons: **
 This section of the document includes all the additional hardware 
 
-> ** 3. Material Specifications & Testing Protocols:**
+** 3. Material Specifications & Testing Protocols:**
 In this section, hardware materials, test procedures and outputs are discussed. 
 
 ** The idea of the development process is: **
