@@ -80,13 +80,29 @@ Conventional CPAP is very expensive and hence not affordable in resource-constra
 
 ### How to use this document: 
 
-This opensource DIY design of this bubble CPAP is module driven. The entire design is divided into three segments:  
+This opensource DIY design of this bubble CPAP is module driven. The entire design is divided into three segments: 
 
-#### 1. Base Design: 
+>** 1. Base Design: **
 This is the bare minimum design of the Bubble CPAP system and it represents the updated design guidelines of the latest design iterations.
-#### 2. Optional Add-ons: 
+
+>** 2. Optional Add-ons: **
 This section of the document includes all the additional hardware 
-#### 3. Material Specifications & Testing Protocols:
+
+>** 3. Material Specifications & Testing Protocols:**
 In this section, hardware materials, test procedures and outputs are discussed. 
 
+** The idea of the development process is: **
+>- To build a working CPAP device using the most commonly used & readily available resources.
+- To shrink the base design while retaining the robustness, reliability and functionality of the system so that it can be used as a standalone bare minimum design.
+- To include more resources, features and test cases in the Optional Add-ons & Testing protocols segments so that it can be further developed with different design approaches.
 
+#### Features and specifications:
+
+    • Flow rate: 1 to 10 lpm
+    • PEEP: equivalent to 1 to 10 cm of water column
+    • Power input: 220v, 50Hz (inpun is air compressor dependant and entirely flexible)
+    • HME filtration (optional) for particulate free clean air.
+    • Both valve regulated or disposable humidifier can be used for easy access
+    • 3-flowmeter design for better air-oxygen blending and control of the total flow. 
+    • Can be built from scratch & easily accessible off-the-shelf components based desig.
+    • Max pressure for O2 cylinder interface: 5 PSI
