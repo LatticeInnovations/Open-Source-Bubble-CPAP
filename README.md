@@ -106,3 +106,46 @@ In this section, hardware materials, test procedures and outputs are discussed.
 * 3-flowmeter design for better air-oxygen blending and control of the total flow. 
 * Can be built from scratch & easily accessible off-the-shelf components based desig.
 * Max pressure for O2 cylinder interface: 5 PSI
+
+**How to build:**
+
+The [“01. Base Design”]()  folder includes all the building iterations. [“Iteration 5”](https://github.com/biplabro/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design/Iteration%205)  (or the largest number) sub-folder includes the latest build instructions with pictures. 
+
+Size and outlook of the built devices across the globe may differ depending on the availability of the components/ alternative components.
+
+**Base Design:**
+
+1. Base device is intended to be treated as a self sufficient working model of the bubble CPAP system. 
+
+2. BOM, available datasheets etc. are included in the “03. Material and testing” folder. We have to keep in mind that the generic components like silicone tubing, HME filters etc. can come from different local and global manufacturers. Every iteration done by the users must include the actual images to help others source the desired item.
+
+3. The basic working principle of respiratory support system like bubble CPAP is to provide the patient with air and gas supply with controlled Volume & Pressure to prevent their lung from collapsing. The flow-meters deployed in the breathing circuit takes care of the volume of the exhausted air/oxygen mixture from the device and the water submersion leven inside the PEEP determines the exerted pressure level to the patient’s lungs. 
+
+4. In the last iteration air. Oxygen is blended through a Y-connector piece with regulated flow and pressure. A table of O2/Air mixture concentration is included in the “03. Material and testing” folder for reference. 
+ 5. Every tube-connector junction is to be fixed properly to assure no leakage within the breathing circuit.
+ 
+**Optional Add-ons:**
+
+1. Optional add-ons can or cannot be implemented with the base design. It entirely depends on the access & availability of the additional components. 
+
+2. HME filters, Valve regulated water filling technique etc. should be considered as extra that does not have a significant direct impact on the usability of the base device. 
+
+3. Users are encouraged to include additional hardware to their respective system to make it more robust & reliable.
+
+**Material & Testing Protocols:**
+
+This folder includes the following :
+- all the testing protocol and experiment data, 
+- Software codes required for conducting the experiments. 
+- Bill of materials and observations on 
+>     1. O2 concentrator
+   	2. Flow meter etc
+  	3. comparison on different nasal prongs
+  	4. Filters
+ 	5. Pressure levels for interfacing external oxygen cylnder
+ 	
+ Enlisting all the tests conducted from phase 1 to phase 3 and how the development is iterated based on the test results
+
+**Other:**
+* Tubing of the breathing circuit is preferred to be of same internal dia, it will assure more accurate readings with the flow-meter.
+ 
