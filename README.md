@@ -63,17 +63,17 @@ This is an open source Bubble CPAP project
 ## Development of OpenSource and affordable bubble CPAP system for neonatal respiratory care
 
 .
-####Introduction:
+#### Introduction:
 
 Preterm infants commonly suffer from a respiratory/breathing disorder called neonatal respiratory distress syndrome (RDS) as their lungs are not yet fully developed. The disease is mainly caused by a lack of a slippery substance in the lungs called surfactant that helps the lungs fill with air and keeps the air sacs from deflating. The surfactant is present when the lungs are fully developed. Neonates suffering from RDS often need breathing support until their lungs start making enough surfactant. 
 
 Continuous positive airway pressure (CPAP) as a therapy for respiratory distress syndrome, is the application of positive pressure to the airways of spontaneously breathing neonates throughout their respiratory cycle.
 
-####Aim:
+#### Aim:
 
 Conventional CPAP is very expensive and hence not affordable in resource-constrained settings. Locally available hardware such as low-cost plastic bottles, tubing, connectors and air pumps are used in this design to develop an affordable and modular Bubble CPAP device. With the modular CPAP approach, we intend to locally train more people on how to develop and troubleshoot CPAP devices. 
 
-####Purpose of usage:
+#### Purpose of usage:
 - Maintaining both breathing parameters i.e. the volume and the pressure of the inhaled gas to the lungs in order to prevent lung collapse among RDS affected neonates/patients.
 - To make sure that the prescribed level of oxygen is supplied to the patient through the air/O2 mixture so that it can take part in the gas exchange process in the alveoli.
 - Helping the patient breath by reducing the work of breathing.
