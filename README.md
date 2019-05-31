@@ -82,13 +82,13 @@ Conventional CPAP is very expensive and hence not affordable in resource-constra
 
 This opensource DIY design of this bubble CPAP is module driven. The entire design is divided into three segments: 
 
-**1. Base Design:**
+**1. [Base Design](https://github.com/biplabro/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design) :**
 This is the bare minimum design of the Bubble CPAP system and it represents the updated design guidelines of the latest design iterations.
 
-**2. Optional Add-ons:**
+**2. [Optional Add-ons](https://github.com/biplabro/Open-Source-Bubble-CPAP/tree/master/02.%20Optional%20Add-ons) :**
 This section of the document includes all the additional hardware 
 
-**3. Material Specifications & Testing Protocols:**
+**3. [Material Specifications & Testing Protocols](https://github.com/biplabro/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing) :**
 In this section, hardware materials, test procedures and outputs are discussed. 
 
 **The idea of the development process is:**
@@ -109,7 +109,7 @@ In this section, hardware materials, test procedures and outputs are discussed.
 
 **How to build:**
 
-The [“01. Base Design”]()  folder includes all the building iterations. [“Iteration 5”](https://github.com/biplabro/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design/Iteration%205)  (or the largest number) sub-folder includes the latest build instructions with pictures. 
+The [“01. Base Design”](https://github.com/biplabro/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design)  folder includes all the building iterations. [“Iteration 5”](https://github.com/biplabro/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design/Iteration%205)  (or the largest number) sub-folder includes the latest build instructions with pictures. 
 
 Size and outlook of the built devices across the globe may differ depending on the availability of the components/ alternative components.
 
@@ -138,7 +138,7 @@ This folder includes the following :
 - all the testing protocol and experiment data, 
 - Software codes required for conducting the experiments. 
 - Bill of materials and observations on 
->     1. O2 concentrator
+	    1. O2 concentrator
    	2. Flow meter etc
   	3. comparison on different nasal prongs
   	4. Filters
