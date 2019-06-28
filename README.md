@@ -113,7 +113,7 @@ The [“01. Base Design”](https://github.com/biplabro/Open-Source-Bubble-CPAP/
 
 Size and outlook of the built devices across the globe may differ depending on the availability of the components/ alternative components.
 
-**Base Design:**
+[**Base Design:**](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design) 
 
 1. Base device is intended to be treated as a self sufficient working model of the bubble CPAP system. 
 
