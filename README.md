@@ -2,11 +2,11 @@
 This is an open source Bubble CPAP project
 # This document is the chronological archive of the open bubble CPAP Design. It shows the working principle of the CPAP system
 
-> ## Iteration 1:
+> ## [Iteration 1:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design/Iteration%201) 
 
 >> This is the first proposed design. It includes industrial grade as well as readily available off-the-shelf materials. 
 
->>It consists of the basic fundamental parts of the system. I.e.
+>>[It consists of the basic fundamental parts of the system. I.e.](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%201/BOM-rev01) 
 
 >> - Air compressor
 >> - Flow meter
@@ -16,31 +16,31 @@ This is an open source Bubble CPAP project
 
 >>> ![Fig 1: Iteration 1 breathing circuit](https://raw.githubusercontent.com/LatticeInnovations/Open-Source-Bubble-CPAP/master/Images/Fig%201%20-%20Iteration%201%20circuit%20diagram.png)
 
-> ## Iteration 2: 
+> ## [Iteration 2: ](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design/Iteration%202) 
 
 >> Tests, observations and changes:
 
 >> - Air compressor, alternative enclosure and hardware selection.
->> - Breathing circuit pressure validation: relation between PEEP submersion depth (cm), Flow rate(Lpm) and pressure (manometer reading)
+>> - [Breathing circuit pressure validation:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/blob/master/03.%20Materials%20and%20testing/iteration%202/Bubble%20VS%20Surface%20Humidifier%20Data/(S.H%20vs%20B.H)%201-of-2%20PEEP%20pressure%20validation%2026-06-2018.pdf) Relation between PEEP submersion depth (cm), Flow rate(Lpm) and pressure (manometer reading)
 >> - Pressure deviations between bubbling & non-bubbling humidifiers.
 >> - Water filling and submersion depth control.
 
 >>> ![Figure 2: Iteration 2 - Flow vs PEEP observed values](https://raw.githubusercontent.com/LatticeInnovations/Open-Source-Bubble-CPAP/master/Images/Fig%202%20-%20Iteration%202%20flow%20vs%20PEEP%20observed%20values.png)
 
->> ### Iteration 2.0
+>> ### [Iteration 2.0](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%202/iteration%202.0) 
 
 >>> Gas detection (NH4, CO, CO2, Propane etc.) to identify the reason of smell inside the breathing circuit. 
 >>> Effect on humidity with variable surface area inside the humidifier to control humidification.
 
->> ### Iteration 2.1
+>> ### [Iteration 2.1](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%202/iteration%202.1) 
 
 >>> Breathing circuit leakage detection technique and results
 
->> ### Iteration 2.2
+>> ### [Iteration 2.2](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%202/iteration%202.2) 
 
 >>> Load testing for 3 days & observations on stability of the in-circuit humidification irrespective of ambient temperature & humidity >>> change.
 
-> ## Iteration 3:
+> ## [Iteration 3:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%203) 
 
 >> - Comparison with Pumani and experiments on rebreathing of CO2 in Open bubble CPAP.
 >> - Humidifier water filling mechanism with ball valve.
@@ -49,7 +49,7 @@ This is an open source Bubble CPAP project
 
 >>> ![Figure 3: Iteration 3 - Humidification chamber modification](https://raw.githubusercontent.com/LatticeInnovations/Open-Source-Bubble-CPAP/master/Images/Fig%203%20-%20Iteration%203%20Humidification%20chamber%20modification.png)
 
-> ## Iteration 4: 
+> ## [Iteration 4:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%204) 
 
 >> - Humidifier selection revised. Medical grade commonly available bottle shaped humidifiers. 
 >> - Alternate silicone tubing for the breathing circuit. (ID-8mm, OD-12 mm)
@@ -113,7 +113,7 @@ The [“01. Base Design”](https://github.com/biplabro/Open-Source-Bubble-CPAP/
 
 Size and outlook of the built devices across the globe may differ depending on the availability of the components/ alternative components.
 
-**Base Design:**
+[**Base Design:**](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design) 
 
 1. Base device is intended to be treated as a self sufficient working model of the bubble CPAP system. 
 
@@ -124,7 +124,7 @@ Size and outlook of the built devices across the globe may differ depending on t
 4. In the last iteration air. Oxygen is blended through a Y-connector piece with regulated flow and pressure. A table of O2/Air mixture concentration is included in the “03. Material and testing” folder for reference. 
  5. Every tube-connector junction is to be fixed properly to assure no leakage within the breathing circuit.
  
-**Optional Add-ons:**
+[**Optional Add-ons:**](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/02.%20Optional%20Add-ons)
 
 1. Optional add-ons can or cannot be implemented with the base design. It entirely depends on the access & availability of the additional components. 
 
@@ -132,7 +132,7 @@ Size and outlook of the built devices across the globe may differ depending on t
 
 3. Users are encouraged to include additional hardware to their respective system to make it more robust & reliable.
 
-**Material & Testing Protocols:**
+[**Materials & Testing Protocols:**](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing) 
 
 This folder includes the following :
 - all the testing protocol and experiment data, 
@@ -147,5 +147,5 @@ This folder includes the following :
  Enlisting all the tests conducted from phase 1 to phase 3 and how the development is iterated based on the test results
 
 **Other:**
-* Tubing of the breathing circuit is preferred to be of same internal dia, it will assure more accurate readings with the flow-meter.
+Tubing of the breathing circuit is preferred to be of same internal dia, it will assure more accurate readings with the flow-meter.
  
