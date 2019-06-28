@@ -49,7 +49,7 @@ This is an open source Bubble CPAP project
 
 >>> ![Figure 3: Iteration 3 - Humidification chamber modification](https://raw.githubusercontent.com/LatticeInnovations/Open-Source-Bubble-CPAP/master/Images/Fig%203%20-%20Iteration%203%20Humidification%20chamber%20modification.png)
 
-> ## Iteration 4: 
+> ## [Iteration 4:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%204) 
 
 >> - Humidifier selection revised. Medical grade commonly available bottle shaped humidifiers. 
 >> - Alternate silicone tubing for the breathing circuit. (ID-8mm, OD-12 mm)
