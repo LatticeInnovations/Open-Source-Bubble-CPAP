@@ -124,7 +124,7 @@ Size and outlook of the built devices across the globe may differ depending on t
 4. In the last iteration air. Oxygen is blended through a Y-connector piece with regulated flow and pressure. A table of O2/Air mixture concentration is included in the “03. Material and testing” folder for reference. 
  5. Every tube-connector junction is to be fixed properly to assure no leakage within the breathing circuit.
  
-**Optional Add-ons:**
+[**Optional Add-ons:**](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/02.%20Optional%20Add-ons)
 
 1. Optional add-ons can or cannot be implemented with the base design. It entirely depends on the access & availability of the additional components. 
 
@@ -132,7 +132,7 @@ Size and outlook of the built devices across the globe may differ depending on t
 
 3. Users are encouraged to include additional hardware to their respective system to make it more robust & reliable.
 
-**Material & Testing Protocols:**
+[**Materials & Testing Protocols:**](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing) 
 
 This folder includes the following :
 - all the testing protocol and experiment data, 
@@ -147,5 +147,5 @@ This folder includes the following :
  Enlisting all the tests conducted from phase 1 to phase 3 and how the development is iterated based on the test results
 
 **Other:**
-* Tubing of the breathing circuit is preferred to be of same internal dia, it will assure more accurate readings with the flow-meter.
+Tubing of the breathing circuit is preferred to be of same internal dia, it will assure more accurate readings with the flow-meter.
  
