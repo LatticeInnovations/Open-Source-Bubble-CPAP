@@ -2,11 +2,11 @@
 This is an open source Bubble CPAP project
 # This document is the chronological archive of the open bubble CPAP Design. It shows the working principle of the CPAP system
 
-> ## Iteration 1:
+> ## [Iteration 1:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design/Iteration%201) 
 
 >> This is the first proposed design. It includes industrial grade as well as readily available off-the-shelf materials. 
 
->>It consists of the basic fundamental parts of the system. I.e.
+>>[It consists of the basic fundamental parts of the system. I.e.](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%201/BOM-rev01) 
 
 >> - Air compressor
 >> - Flow meter
@@ -16,12 +16,12 @@ This is an open source Bubble CPAP project
 
 >>> ![Fig 1: Iteration 1 breathing circuit](https://raw.githubusercontent.com/LatticeInnovations/Open-Source-Bubble-CPAP/master/Images/Fig%201%20-%20Iteration%201%20circuit%20diagram.png)
 
-> ## Iteration 2: 
+> ## [Iteration 2: ](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/01.%20Base%20Design/Iteration%202) 
 
 >> Tests, observations and changes:
 
 >> - Air compressor, alternative enclosure and hardware selection.
->> - Breathing circuit pressure validation: relation between PEEP submersion depth (cm), Flow rate(Lpm) and pressure (manometer reading)
+>> - [Breathing circuit pressure validation:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/blob/master/03.%20Materials%20and%20testing/iteration%202/Bubble%20VS%20Surface%20Humidifier%20Data/(S.H%20vs%20B.H)%201-of-2%20PEEP%20pressure%20validation%2026-06-2018.pdf) Relation between PEEP submersion depth (cm), Flow rate(Lpm) and pressure (manometer reading)
 >> - Pressure deviations between bubbling & non-bubbling humidifiers.
 >> - Water filling and submersion depth control.
 
