@@ -27,20 +27,20 @@ This is an open source Bubble CPAP project
 
 >>> ![Figure 2: Iteration 2 - Flow vs PEEP observed values](https://raw.githubusercontent.com/LatticeInnovations/Open-Source-Bubble-CPAP/master/Images/Fig%202%20-%20Iteration%202%20flow%20vs%20PEEP%20observed%20values.png)
 
->> ### Iteration 2.0
+>> ### [Iteration 2.0](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%202/iteration%202.0) 
 
 >>> Gas detection (NH4, CO, CO2, Propane etc.) to identify the reason of smell inside the breathing circuit. 
 >>> Effect on humidity with variable surface area inside the humidifier to control humidification.
 
->> ### Iteration 2.1
+>> ### [Iteration 2.1](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%202/iteration%202.1) 
 
 >>> Breathing circuit leakage detection technique and results
 
->> ### Iteration 2.2
+>> ### [Iteration 2.2](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%202/iteration%202.2) 
 
 >>> Load testing for 3 days & observations on stability of the in-circuit humidification irrespective of ambient temperature & humidity >>> change.
 
-> ## Iteration 3:
+> ## [Iteration 3:](https://github.com/LatticeInnovations/Open-Source-Bubble-CPAP/tree/master/03.%20Materials%20and%20testing/iteration%203) 
 
 >> - Comparison with Pumani and experiments on rebreathing of CO2 in Open bubble CPAP.
 >> - Humidifier water filling mechanism with ball valve.
